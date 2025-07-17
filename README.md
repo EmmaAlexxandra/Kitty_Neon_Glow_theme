@@ -1,16 +1,17 @@
-# kitty-neon-glow README
+# Kitty Neon Glow
 
-## Working with Markdown
+A glowing, cyberpunk-inspired VS Code theme with vibrant pinks, purples, and neon blues — inspired by a luminous feline.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Preview
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+![Theme Screenshot](screenshot.png)
 
-## For more information
+## Installation (Local)
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+1. Clone the repo
+2. Run `vsce package`
+3. In VS Code: `Ctrl+Shift+P → Extensions: Install from VSIX`
 
-**Enjoy!**
+## Coming Soon
+
+Publishing to the VS Code Marketplace ✨
