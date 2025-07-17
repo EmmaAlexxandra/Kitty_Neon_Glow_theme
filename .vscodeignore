@@ -1,4 +1,6 @@
-.vscode/**
-.vscode-test/**
+.vscode/
+node_modules/
+.git/
 .gitignore
-vsc-extension-quickstart.md
+README.md
+screenshot.png
