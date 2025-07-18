@@ -2,55 +2,57 @@
   "name": "Kitty Neon Glow",
   "type": "dark",
   "colors": {
-    "editor.background": "#1a1040",
-    "editor.foreground": "#ffe3f9",
-    "editor.lineHighlightBackground": "#2d1e4a66",
-    "editorCursor.foreground": "#ff4fd8",
-    "editor.selectionBackground": "#9c5fff33",
-    "editor.selectionHighlightBackground": "#9c5fff22",
-    "activityBar.background": "#2d1e4a",
-    "sideBar.background": "#1a1040",
-    "statusBar.background": "#2d1e4a",
-    "tab.activeBackground": "#2d1e4a",
-    "tab.inactiveBackground": "#1a1040",
-    "titleBar.activeBackground": "#2d1e4a"
+    "editor.background": "#0d0221",
+    "editor.foreground": "#fcdfff",
+    "editor.lineHighlightBackground": "#ff00ff22",
+    "editorCursor.foreground": "#00fff9",
+    "editor.selectionBackground": "#ff00c870",
+    "editor.selectionHighlightBackground": "#ffb6ff33",
+    "activityBar.background": "#1f004d",
+    "sideBar.background": "#14002e",
+    "statusBar.background": "#ff00c8",
+    "tab.activeBackground": "#360058",
+    "tab.inactiveBackground": "#14002e",
+    "titleBar.activeBackground": "#1f004d"
   },
   "tokenColors": [
     {
       "scope": ["keyword"],
       "settings": {
-        "foreground": "#9c5fff",
+        "foreground": "#ff00ff",
         "fontStyle": "bold"
       }
     },
     {
       "scope": ["string"],
       "settings": {
-        "foreground": "#ff4fd8"
+        "foreground": "#00fff9",
+        "fontStyle": "italic"
       }
     },
     {
       "scope": ["variable", "entity.name.variable"],
       "settings": {
-        "foreground": "#ffe3f9"
+        "foreground": "#fcdfff"
       }
     },
     {
       "scope": ["constant.numeric"],
       "settings": {
-        "foreground": "#a6f6ff"
+        "foreground": "#ffff00"
       }
     },
     {
       "scope": ["entity.name.function"],
       "settings": {
-        "foreground": "#cbb9ff"
+        "foreground": "#ffb6ff",
+        "fontStyle": "underline"
       }
     },
     {
       "scope": ["comment"],
       "settings": {
-        "foreground": "#6a5c9b",
+        "foreground": "#aa88ff",
         "fontStyle": "italic"
       }
     }
