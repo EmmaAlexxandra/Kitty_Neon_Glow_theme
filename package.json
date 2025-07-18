@@ -3,7 +3,7 @@
   "displayName": "Kitty Neon Glow",
   "description": "A glowing, cyberpunk-inspired VS Code theme with vibrant pinks, purples, and neon blues — inspired by a luminous feline.",
   "version": "0.0.2",
-  "publisher": "emmaalexxandra",
+  "publisher": "EmmaAlexxandra",
   "engines": {
     "vscode": "^1.91.1"
   },
